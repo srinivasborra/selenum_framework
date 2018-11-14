@@ -1,0 +1,19 @@
+package com.test.qa.utils;
+
+public interface GlobalConstants {
+	
+	public String TEST_CHROME_DRIVER_PATH = "TEST_CHROME_DRIVER_PATH";
+	public String TEST_GECO_DRIVER_PATH = "TEST_GECO_DRIVER_PATH";
+	public String TEST_SAFARI_DRIVER_PATH = "TEST_SAFARI_DRIVER_PATH";
+
+	public String TEST_CHROME_BROWSER = "TEST_CHROME_BROWSER";
+	public String TEST_SAFARI_BROWSER = "TEST_SAFARI_BROWSER";
+	public String TEST_FIREFOX_BROWSER = "TEST_FIREFOX_BROWSER";
+	public String TEST_IE_BROWSER = "TEST_IE_BROWSER";
+	
+	public String TEST_BASE_URL = "TEST_BASE_URL";
+	
+	public String TEST_SEARCH_KEY_WORD = "TEST_SEARCH_KEY_WORD";
+	public String TEST_SEARCH_PRODUCT  = "TEST_SEARCH_PRODUCT";
+	
+}
